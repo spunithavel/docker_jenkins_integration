@@ -7,6 +7,6 @@
   <name>Archetype - docker_jenkins_integration</name>
   <url>http://maven.apache.org</url>
   <build>
-  <finalName>docker_jenkins_integration</finalName>
+  	<finalName>docker_jenkins_integration</finalName>
   </build>
 </project>
